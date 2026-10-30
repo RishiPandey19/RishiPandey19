@@ -2,7 +2,7 @@
 
 # Rishi Pandey
 
-### Data Science · Economics
+### UC Berkeley · Data Science & Economics
 
 Building data pipelines and predictive models.<br>
 Interested in financial markets, quantitative research, and learning from data.
@@ -16,9 +16,11 @@ Interested in financial markets, quantitative research, and learning from data.
 
 ### About me
 
-I'm studying Data Science at UC Berkeley, with interests in economics and quantitative finance. I enjoy connecting mathematical ideas with working software—from processing market data to modeling biological sequences.
+I'm a junior at **UC Berkeley** pursuing a **B.A. in Data Science and a B.A. in Economics**, with expected graduation in **May 2028**. I build data pipelines and machine learning models, with interests in financial markets and quantitative research.
 
-My projects explore **data engineering**, **applied machine learning**, and **prediction under uncertainty**.
+**Seeking Summer 2027 internships in machine learning, data science, and data engineering.**
+
+My coursework includes data structures, the structure and interpretation of computer programs, linear algebra and differential equations, discrete mathematics, econometrics, and financial economics.
 
 ### Selected projects
 
@@ -39,7 +41,9 @@ A pipeline for U.S. stock-market data, with raw-response retention, data validat
 #### 🧬 DNA Enhancer Transformer
 <a href="https://github.com/RishiPandey19/dna-enhancer-transformer"><strong>Explore the repository →</strong></a>
 
-A compact Transformer for DNA enhancer classification, with training, evaluation, and a prediction API.
+Built a PyTorch enhancer classifier and a causal, GPT-style DNA sequence generator, with tokenization, evaluation, checkpointing, and FastAPI inference.
+
+Classifier results: **66.6% test accuracy · 0.734 AUROC** after one training epoch on the approximately 20K-sequence benchmark.
 
 <sub>Python · PyTorch · Transformers · FastAPI</sub>
 
@@ -59,7 +63,13 @@ An NBA prediction project using rolling pre-game features and a Random Forest cl
 </tr>
 </table>
 
-### Tools I work with
+### Technical skills
+
+**Languages:** Python · SQL · C++ · Java  
+**Machine learning:** PyTorch · scikit-learn · pandas · Transformers · feature engineering · model evaluation  
+**Data engineering:** Airflow · ETL · PostgreSQL · SQLAlchemy · Pandera  
+**Development:** Docker Compose · FastAPI · Git · pytest · Excel
+
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
@@ -68,6 +78,12 @@ An NBA prediction project using rolling pre-game features and a Random Forest cl
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1)
 ![Airflow](https://img.shields.io/badge/Airflow-0D1117?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED)
+
+### Beyond the code
+
+- **Combat robotics team lead:** Led a four-person Berkeley team through CAD design, 3D printing, and six build revisions of a one-pound horizontal-spinner robot for a Sacramento antweight competition.
+- **Cochran Consulting intern · June–July 2026:** Sourced and qualified 2,000+ prospective leads across 4–5 industries and supported client outreach.
+- **Taekwondo instructor & fourth-degree black belt:** Taught weekly sparring, weapons, and forms classes at a school serving 200+ students, following 14 years of training.
 
 ### What I'm exploring
 
