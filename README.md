@@ -2,7 +2,7 @@
 
 # Rishi Pandey
 
-### Mathematics · Economics · Machine Learning
+### Data Science · Economics
 
 Building data pipelines and predictive models.<br>
 Interested in financial markets, quantitative research, and learning from data.
@@ -16,7 +16,7 @@ Interested in financial markets, quantitative research, and learning from data.
 
 ### About me
 
-I'm studying mathematics at UC Berkeley, with interests in economics and quantitative finance. I enjoy connecting mathematical ideas with working software—from processing market data to modeling biological sequences.
+I'm studying Data Science at UC Berkeley, with interests in economics and quantitative finance. I enjoy connecting mathematical ideas with working software—from processing market data to modeling biological sequences.
 
 My projects explore **data engineering**, **applied machine learning**, and **prediction under uncertainty**.
 
